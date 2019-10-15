@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Movies App</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_tv_shows">Top Rated TV Shows</string>
+    <string name="popular_tv_shows">Popular TV Shows</string>
+    <string name="discover">Discover</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_discover_fragment">Hello Discover Fragment</string>
+    <string name="hello_movies_fragment">Hello Movies Fragment</string>
+    <string name="hello_tv_shows_fragment">Hello TV Shows Fragment</string>
+    <string name="friends">The Chronicles of Narnia : Part One</string>
+    <string name="menu_popular_movies">Popular Movies</string>
+    <string name="menu_top_rated_movies">Top Rated Movies</string>
+    <string name="menu_upcoming_movies">Upcoming Movies</string>
+    <string name="menu_now_playing_movies">Now Playing Movies</string>
+    <string name="dangal_overvieew">Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.</string>
+    <string name="dangal">Dangal</string>
+    <string name="_161_mins">161 mins</string>
+    <string name="cast_name">Aamir Khan, Fatima Sana Shaikh, SanyaMalhotra, Aparshakti Khurana, Sakhi Tanwar, Zaira Wasim, Suhani Bhatnagar, Girish Kulkarni</string>
+    <string name="sample_text">As they rounded a bend in the path that ran beside the river, Lara recognized the silhouette of a fig tree atop a nearby hill. The weather was hot and the days were long. The fig tree was in full leaf, but not yet bearing fruit. Soon Lara spotted other landmarks—an outcropping of limestone beside the path that had a silhouette like a man’s face, a marshy spot beside the river where the waterfowl were easily startled, a tall tree that looked like a man with his arms upraised. They were drawing near to the place where there was an island in the river. The island was a good spot to make camp. They would sleep on the island tonight. Lara had been back and forth along the river path many times in her short life. Her people had not created the path—it had always been there, like the river—but their deerskin-shod feet and the wooden wheels of their handcarts kept the path well worn. Lara’s people were salt traders, and their livelihood took them on a continual journey. At the mouth of the river, the little group of half a dozen intermingled families gathered salt from the great salt beds beside the sea. They groomed and sifted the salt and loaded it into handcarts. When the carts were full, most of the group would stay behind, taking shelter amid rocks and simple lean-tos, while a band of fifteen or so of the heartier members set out on the path that ran alongside the river. With their precious cargo of salt, the travelers crossed the coastal lowlands and traveled toward the mountains. But Lara’s people never reached the mountaintops; they traveled only as far as the foothills. Many people lived in the forests and grassy meadows of the foothills, gathered in small villages. In return for salt, these people would give Lara’s people dried meat, animal skins, cloth spun from wool, clay pots, needles and scraping tools carved from bone, and little toys made of wood. Their bartering done, Lara and her people would travel back down the river path to the sea. The cycle would begin again. It had always been like this. Lara knew no other life. She traveled back and forth, up and down the river path. No single place was home. She liked the seaside, where there was always fish to eat, and the gentle lapping of the waves lulled her to sleep at night. She was less fond of the foothills, where the path grew steep, the nights could be cold, and views of great distances made her dizzy. She felt uneasy in the villages, and was often shy around strangers. The path itself was where she felt most at home. She loved the smell of the river on a hot day, and the croaking of frogs at night. Vines grew amid the lush foliage along the river, with berries that were good to eat. Even on the hottest day, sundown brought a cool breeze off the water, which sighed and sang amid the reeds and tall grasses.</string>
+    <string name="overview_friends">The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.</string>
+
 </resources>
