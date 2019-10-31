@@ -13,3 +13,7 @@ Movie Screen
 TVShow Screen
 
 <a href="https://imgflip.com/gif/3exqlw"><img src="https://i.imgflip.com/3exqlw.gif" title="made at imgflip.com"/></a>
+
+Trailer Link
+
+<a href="https://imgflip.com/gif/3exqvx"><img src="https://i.imgflip.com/3exqvx.gif" title="made at imgflip.com"/></a>
