@@ -1,5 +1,6 @@
 # Movies-App
 Movies App for brief info of movies &amp; tvshows.
+
 Main Screen
 
 
