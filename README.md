@@ -9,3 +9,7 @@ Main Screen
 Movie Screen
 
 <a href="https://imgflip.com/gif/3exq9v"><img src="https://i.imgflip.com/3exq9v.gif" title="made at imgflip.com"/></a>
+
+TVShow Screen
+
+<a href="https://imgflip.com/gif/3exqlw"><img src="https://i.imgflip.com/3exqlw.gif" title="made at imgflip.com"/></a>
